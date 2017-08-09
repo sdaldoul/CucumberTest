@@ -13,6 +13,7 @@ public class cucumberJava {
 	final static Logger logger = Logger.getLogger(cucumberJava.class);
 	
 	/*Add some comments*/
+	/*add fix comment*/
 
 	private MyService service;
 	private boolean success;
