@@ -11,6 +11,8 @@ import junit.framework.Assert;
 public class cucumberJava {
 
 	final static Logger logger = Logger.getLogger(cucumberJava.class);
+	
+	/*Add some comments*/
 
 	private MyService service;
 	private boolean success;
